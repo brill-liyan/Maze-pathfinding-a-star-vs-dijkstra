@@ -14,3 +14,42 @@ Project ini dibuat untuk membandingkan performa algoritma shortest path dari sis
 - Jumlah node yang dieksplorasi
 - Kompleksitas memori
 - Panjang jalur yang ditemukan
+
+## Objectives
+- Mengimplementasikan algoritma pathfinding klasik
+- Membandingkan efisiensi A* vs Dijkstra
+- Membuat visualisasi proses pencarian jalur
+- Mengukur performa algoritma
+
+## Features
+- Random maze generation (Prim-based)
+- Maze save & load (pickle)
+- Visual path exploration
+- Real-time rendering
+- Performance metrics output:
+    - Execution time
+    - Nodes explored
+    - Memory usage
+    - Path length
+ 
+## Algorithms Used
+1. Dijkstra Algorithm
+     - Menjamin shortest path
+     - Tidak menggunakan heuristic
+     - Mengeksplorasi node lebih banyak
+
+2. A* Algorithm
+     - Menggunakan heuristic Manhattan distance
+     - Lebih cepat menuju target
+     - Eksplorasi node lebih efisien
+  
+## Tech Stack
+Python
+Pygame
+Heap Queue
+Pickle Serialization
+
+## Author
+Nama: Brilliyanda Annisaatulrohmah
+Role: Data Science Student
+Focus: AI, Machine Learning, Algorithmic Problem Solving
