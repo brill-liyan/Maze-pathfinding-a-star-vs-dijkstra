@@ -1,6 +1,8 @@
 # Maze-pathfinding-a-star-vs-dijkstra
 Maze generator and pathfinding visualization using A* and Dijkstra algorithms with performance comparison and real-time rendering in Python.
 
+Tags: Pathfinding, Graph Algorithm, A*, Dijkstra, Python, Pygame, Visualization
+
 ## Project Overview
 
 Project ini merupakan implementasi Maze Generator dan Maze Solver menggunakan dua algoritma pencarian jalur:
